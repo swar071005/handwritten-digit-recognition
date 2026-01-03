@@ -5,6 +5,5 @@ matplotlib
 streamlit
 streamlit-drawable-canvas
 joblib
-
 tensorflow
 keras
